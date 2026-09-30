@@ -17,7 +17,9 @@ I enjoy learning how technology can solve real-world problems, especially in are
 ### 📫 How to reach me:
 
 **Email:** [abusalehseam@gmail.com](mailto:abusalehseam@gmail.com)
+
 **LinkedIn:** Connect with me on LinkedIn
+
 **GitHub:** You're already here! 😄
 
 ### 😄 Pronouns: **He/Him**
