@@ -4,25 +4,15 @@ I'm an undergraduate **B.Sc. student in Information Technology & Management (ITM
 
 I enjoy learning how technology can solve real-world problems, especially in areas related to **financial technology, digital banking, databases, web applications, and network infrastructure**.
 
-### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ... Small web-based and FinTech projects to improve my practical programming, database, backend, and networking skills.
 
-Small web-based and FinTech projects to improve my practical programming, database, backend, and networking skills.
+### 🌱 I’m currently learning ... **FinTech, Backend Development, PHP, Python, JavaScript, MySQL, Database Management, Networking, and Power BI.**
 
-### 🌱 I’m currently learning ...
+### 👯 I’m looking to collaborate on ... Beginner-friendly **FinTech, web development, database, backend, and networking projects** where I can learn and contribute.
 
-**FinTech, Backend Development, PHP, Python, JavaScript, MySQL, Database Management, Networking, and Power BI.**
+### 🤔 I’m looking for help with ... Improving my **backend development, software architecture, networking, and real-world project development** skills.
 
-### 👯 I’m looking to collaborate on ...
-
-Beginner-friendly **FinTech, web development, database, backend, and networking projects** where I can learn and contribute.
-
-### 🤔 I’m looking for help with ...
-
-Improving my **backend development, software architecture, networking, and real-world project development** skills.
-
-### 💬 Ask me about ...
-
-**ITM, FinTech, Backend Development, PHP, Python, MySQL, Databases, Computer Networking, Cisco Packet Tracer, and Power BI.**
+### 💬 Ask me about ... **ITM, FinTech, Backend Development, PHP, Python, MySQL, Databases, Computer Networking, Cisco Packet Tracer, and Power BI.**
 
 ### 📫 How to reach me:
 
@@ -30,13 +20,9 @@ Improving my **backend development, software architecture, networking, and real-
 **LinkedIn:** Connect with me on LinkedIn
 **GitHub:** You're already here! 😄
 
-### 😄 Pronouns:
+### 😄 Pronouns: **He/Him**
 
-**He/Him**
-
-### ⚡ Fun fact:
-
-I’m interested in both **software and networking**, so I enjoy exploring how applications work behind the scenes and how computers communicate with each other.
+### ⚡ Fun fact: I’m interested in both **software and networking**, so I enjoy exploring how applications work behind the scenes and how computers communicate with each other.
 
 ---
 
@@ -53,8 +39,9 @@ I’m interested in both **software and networking**, so I enjoy exploring how a
 **Tools:** GitHub, VS Code, XAMPP, Cisco Packet Tracer, Power BI
 **Interests:** FinTech • Backend Development • Networking • Digital Banking • Databases
  
+
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abu Saleh Seam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abu saleh seam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abu.saleh.seam.paw@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/736096885776842832) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1DWZBPXZdu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abu-saleh-seam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abu.saleh.seam.paw@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
